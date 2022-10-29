@@ -1,3 +1,7 @@
+@media (max-width: 61.25em)
+html {
+    font-size: 58%;
+}
 #navbar {
   background-color: #bd2ddf;
   overflow: hidden;
